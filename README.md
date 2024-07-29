@@ -1,9 +1,9 @@
 # GLASSIC - MERN STACK E-COMMERCE WEBSITE
 
 ## TECHNOLOGIES USE
-### Front-end: React.js
-### Back-end: Node.js, Express.js, MongoDB
-### Others: Figma, Postman, Git, Github
+- Front-end: React.js
+- Back-end: Node.js, Express.js, MongoDB
+- Others: Figma, Postman, Git, Github
 
 ## FUNCTIONS
 ### Front-end
@@ -17,7 +17,7 @@
 - JWT-based authentication for secure API access
 
 ## INSTALLATION
-### Install dependencies, in each folder run: 'npm i'
-### Front-end: run 'npm start'
-### Back-end: run 'node ./index.js'
-### Admin panel: run 'npm run dev'
+- Install dependencies, in each folder run: 'npm i'
+- Front-end: run 'npm start'
+- Back-end: run 'node ./index.js'
+- Admin panel: run 'npm run dev'
