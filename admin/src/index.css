@@ -1,0 +1,11 @@
+@font-face {
+  font-family: logoFont;
+  src: url("./assets/fonts/AhganiryaPersonalUse-Yznaj.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins";
+  background-color: #f6f6f6;
+  height: 100vh;
+}
