@@ -15,7 +15,7 @@ app.use(cors());
 
 // Database Connection With MongoDB
 mongoose.connect(
-  "mongodb+srv://tranbachtungnvc:dotgh123@cluster0.1k0oeav.mongodb.net/glasses+e-commerce"
+  "mongodb+srv://tungtran:test123@cluster0.1k0oeav.mongodb.net/glasses+e-commerce"
 );
 
 // API Creation
